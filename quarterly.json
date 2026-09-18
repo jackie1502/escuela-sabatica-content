@@ -1,0 +1,2677 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-Q3",
+  "year": 2026,
+  "quarter": 3,
+  "version": 1,
+  "updatedAt": "2026-06-27T00:00:00.000Z",
+  "title": "Crecer en la fe",
+  "description": "Estudios originales de respaldo. No es la guía oficial de Escuela Sabática. Las citas incluyen paráfrasis de estudio.",
+  "lessons": [
+    {
+      "id": "lesson-1",
+      "number": 1,
+      "title": "La Palabra como tesoro",
+      "startDate": "2026-06-27",
+      "endDate": "2026-07-03",
+      "days": [
+        {
+          "id": "day-0",
+          "index": 0,
+          "name": "Sábado",
+          "date": "2026-06-27",
+          "title": "Panorama de la semana",
+          "readings": [
+            "Estudiar la Escritura ayuda a examinar nuestras decisiones. Lee el pasaje y observa la imagen de la luz y el camino.",
+            "Lee el pasaje y describe su tema central."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Salmo 119:105",
+              "text": "La Palabra ilumina el camino.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué idea principal encuentras en el pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-1",
+          "index": 1,
+          "name": "Domingo",
+          "date": "2026-06-28",
+          "title": "Observar el texto",
+          "readings": [
+            "Estudiar la Escritura ayuda a examinar nuestras decisiones. Lee el pasaje y observa la imagen de la luz y el camino.",
+            "Identifica quién habla y a quién se dirige."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Salmo 119:105",
+              "text": "La Palabra ilumina el camino.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué palabras o imágenes destacan y por qué?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-2",
+          "index": 2,
+          "name": "Lunes",
+          "date": "2026-06-29",
+          "title": "Comprender el contexto",
+          "readings": [
+            "Estudiar la Escritura ayuda a examinar nuestras decisiones. Lee el pasaje y observa la imagen de la luz y el camino.",
+            "Lee los versículos anteriores y posteriores."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Salmo 119:105",
+              "text": "La Palabra ilumina el camino.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Cómo ayuda el contexto a comprender esta enseñanza?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-3",
+          "index": 3,
+          "name": "Martes",
+          "date": "2026-06-30",
+          "title": "Examinar el mensaje",
+          "readings": [
+            "Estudiar la Escritura ayuda a examinar nuestras decisiones. Lee el pasaje y observa la imagen de la luz y el camino.",
+            "Distingue lo que el texto afirma de tus propias suposiciones."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Salmo 119:105",
+              "text": "La Palabra ilumina el camino.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué enseña este pasaje acerca de Dios y de nuestra respuesta?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-4",
+          "index": 4,
+          "name": "Miércoles",
+          "date": "2026-07-01",
+          "title": "Aplicar con cuidado",
+          "readings": [
+            "Estudiar la Escritura ayuda a examinar nuestras decisiones. Lee el pasaje y observa la imagen de la luz y el camino.",
+            "Relaciona el mensaje con una situación concreta de tu vida."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Salmo 119:105",
+              "text": "La Palabra ilumina el camino.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué decisión puedes revisar a la luz de este pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-5",
+          "index": 5,
+          "name": "Jueves",
+          "date": "2026-07-02",
+          "title": "Compartir y servir",
+          "readings": [
+            "Estudiar la Escritura ayuda a examinar nuestras decisiones. Lee el pasaje y observa la imagen de la luz y el camino.",
+            "Piensa en una persona a quien puedas ayudar esta semana."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Salmo 119:105",
+              "text": "La Palabra ilumina el camino.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué acción de servicio expresa lo aprendido?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-6",
+          "index": 6,
+          "name": "Viernes",
+          "date": "2026-07-03",
+          "title": "Repasar y dialogar",
+          "readings": [
+            "Estudiar la Escritura ayuda a examinar nuestras decisiones. Lee el pasaje y observa la imagen de la luz y el camino.",
+            "Revisa tus notas y prepara una pregunta para tu grupo."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Salmo 119:105",
+              "text": "La Palabra ilumina el camino.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué aprendiste y qué deseas seguir estudiando?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-2",
+      "number": 2,
+      "title": "El amor de Dios",
+      "startDate": "2026-07-04",
+      "endDate": "2026-07-10",
+      "days": [
+        {
+          "id": "day-0",
+          "index": 0,
+          "name": "Sábado",
+          "date": "2026-07-04",
+          "title": "Panorama de la semana",
+          "readings": [
+            "Juan relaciona conocer a Dios con amar. Examina cómo esa relación transforma el trato que damos a otras personas.",
+            "Lee el pasaje y describe su tema central."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "1 Juan 4:8",
+              "text": "Dios es amor.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué idea principal encuentras en el pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-1",
+          "index": 1,
+          "name": "Domingo",
+          "date": "2026-07-05",
+          "title": "Observar el texto",
+          "readings": [
+            "Juan relaciona conocer a Dios con amar. Examina cómo esa relación transforma el trato que damos a otras personas.",
+            "Identifica quién habla y a quién se dirige."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "1 Juan 4:8",
+              "text": "Dios es amor.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué palabras o imágenes destacan y por qué?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-2",
+          "index": 2,
+          "name": "Lunes",
+          "date": "2026-07-06",
+          "title": "Comprender el contexto",
+          "readings": [
+            "Juan relaciona conocer a Dios con amar. Examina cómo esa relación transforma el trato que damos a otras personas.",
+            "Lee los versículos anteriores y posteriores."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "1 Juan 4:8",
+              "text": "Dios es amor.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Cómo ayuda el contexto a comprender esta enseñanza?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-3",
+          "index": 3,
+          "name": "Martes",
+          "date": "2026-07-07",
+          "title": "Examinar el mensaje",
+          "readings": [
+            "Juan relaciona conocer a Dios con amar. Examina cómo esa relación transforma el trato que damos a otras personas.",
+            "Distingue lo que el texto afirma de tus propias suposiciones."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "1 Juan 4:8",
+              "text": "Dios es amor.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué enseña este pasaje acerca de Dios y de nuestra respuesta?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-4",
+          "index": 4,
+          "name": "Miércoles",
+          "date": "2026-07-08",
+          "title": "Aplicar con cuidado",
+          "readings": [
+            "Juan relaciona conocer a Dios con amar. Examina cómo esa relación transforma el trato que damos a otras personas.",
+            "Relaciona el mensaje con una situación concreta de tu vida."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "1 Juan 4:8",
+              "text": "Dios es amor.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué decisión puedes revisar a la luz de este pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-5",
+          "index": 5,
+          "name": "Jueves",
+          "date": "2026-07-09",
+          "title": "Compartir y servir",
+          "readings": [
+            "Juan relaciona conocer a Dios con amar. Examina cómo esa relación transforma el trato que damos a otras personas.",
+            "Piensa en una persona a quien puedas ayudar esta semana."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "1 Juan 4:8",
+              "text": "Dios es amor.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué acción de servicio expresa lo aprendido?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-6",
+          "index": 6,
+          "name": "Viernes",
+          "date": "2026-07-10",
+          "title": "Repasar y dialogar",
+          "readings": [
+            "Juan relaciona conocer a Dios con amar. Examina cómo esa relación transforma el trato que damos a otras personas.",
+            "Revisa tus notas y prepara una pregunta para tu grupo."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "1 Juan 4:8",
+              "text": "Dios es amor.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué aprendiste y qué deseas seguir estudiando?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-3",
+      "number": 3,
+      "title": "La oración sincera",
+      "startDate": "2026-07-11",
+      "endDate": "2026-07-17",
+      "days": [
+        {
+          "id": "day-0",
+          "index": 0,
+          "name": "Sábado",
+          "date": "2026-07-11",
+          "title": "Panorama de la semana",
+          "readings": [
+            "Pablo une petición y agradecimiento. Reflexiona sobre la diferencia entre ocultar una preocupación y presentarla a Dios.",
+            "Lee el pasaje y describe su tema central."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Filipenses 4:6",
+              "text": "Presenta tus peticiones a Dios con gratitud.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué idea principal encuentras en el pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-1",
+          "index": 1,
+          "name": "Domingo",
+          "date": "2026-07-12",
+          "title": "Observar el texto",
+          "readings": [
+            "Pablo une petición y agradecimiento. Reflexiona sobre la diferencia entre ocultar una preocupación y presentarla a Dios.",
+            "Identifica quién habla y a quién se dirige."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Filipenses 4:6",
+              "text": "Presenta tus peticiones a Dios con gratitud.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué palabras o imágenes destacan y por qué?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-2",
+          "index": 2,
+          "name": "Lunes",
+          "date": "2026-07-13",
+          "title": "Comprender el contexto",
+          "readings": [
+            "Pablo une petición y agradecimiento. Reflexiona sobre la diferencia entre ocultar una preocupación y presentarla a Dios.",
+            "Lee los versículos anteriores y posteriores."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Filipenses 4:6",
+              "text": "Presenta tus peticiones a Dios con gratitud.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Cómo ayuda el contexto a comprender esta enseñanza?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-3",
+          "index": 3,
+          "name": "Martes",
+          "date": "2026-07-14",
+          "title": "Examinar el mensaje",
+          "readings": [
+            "Pablo une petición y agradecimiento. Reflexiona sobre la diferencia entre ocultar una preocupación y presentarla a Dios.",
+            "Distingue lo que el texto afirma de tus propias suposiciones."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Filipenses 4:6",
+              "text": "Presenta tus peticiones a Dios con gratitud.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué enseña este pasaje acerca de Dios y de nuestra respuesta?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-4",
+          "index": 4,
+          "name": "Miércoles",
+          "date": "2026-07-15",
+          "title": "Aplicar con cuidado",
+          "readings": [
+            "Pablo une petición y agradecimiento. Reflexiona sobre la diferencia entre ocultar una preocupación y presentarla a Dios.",
+            "Relaciona el mensaje con una situación concreta de tu vida."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Filipenses 4:6",
+              "text": "Presenta tus peticiones a Dios con gratitud.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué decisión puedes revisar a la luz de este pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-5",
+          "index": 5,
+          "name": "Jueves",
+          "date": "2026-07-16",
+          "title": "Compartir y servir",
+          "readings": [
+            "Pablo une petición y agradecimiento. Reflexiona sobre la diferencia entre ocultar una preocupación y presentarla a Dios.",
+            "Piensa en una persona a quien puedas ayudar esta semana."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Filipenses 4:6",
+              "text": "Presenta tus peticiones a Dios con gratitud.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué acción de servicio expresa lo aprendido?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-6",
+          "index": 6,
+          "name": "Viernes",
+          "date": "2026-07-17",
+          "title": "Repasar y dialogar",
+          "readings": [
+            "Pablo une petición y agradecimiento. Reflexiona sobre la diferencia entre ocultar una preocupación y presentarla a Dios.",
+            "Revisa tus notas y prepara una pregunta para tu grupo."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Filipenses 4:6",
+              "text": "Presenta tus peticiones a Dios con gratitud.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué aprendiste y qué deseas seguir estudiando?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-4",
+      "number": 4,
+      "title": "La fe que confía",
+      "startDate": "2026-07-18",
+      "endDate": "2026-07-24",
+      "days": [
+        {
+          "id": "day-0",
+          "index": 0,
+          "name": "Sábado",
+          "date": "2026-07-18",
+          "title": "Panorama de la semana",
+          "readings": [
+            "El texto describe la fe en relación con la esperanza. Observa qué afirma el pasaje antes de aplicarlo a una situación personal.",
+            "Lee el pasaje y describe su tema central."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Hebreos 11:1",
+              "text": "La fe sostiene la confianza en lo que esperamos.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué idea principal encuentras en el pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-1",
+          "index": 1,
+          "name": "Domingo",
+          "date": "2026-07-19",
+          "title": "Observar el texto",
+          "readings": [
+            "El texto describe la fe en relación con la esperanza. Observa qué afirma el pasaje antes de aplicarlo a una situación personal.",
+            "Identifica quién habla y a quién se dirige."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Hebreos 11:1",
+              "text": "La fe sostiene la confianza en lo que esperamos.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué palabras o imágenes destacan y por qué?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-2",
+          "index": 2,
+          "name": "Lunes",
+          "date": "2026-07-20",
+          "title": "Comprender el contexto",
+          "readings": [
+            "El texto describe la fe en relación con la esperanza. Observa qué afirma el pasaje antes de aplicarlo a una situación personal.",
+            "Lee los versículos anteriores y posteriores."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Hebreos 11:1",
+              "text": "La fe sostiene la confianza en lo que esperamos.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Cómo ayuda el contexto a comprender esta enseñanza?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-3",
+          "index": 3,
+          "name": "Martes",
+          "date": "2026-07-21",
+          "title": "Examinar el mensaje",
+          "readings": [
+            "El texto describe la fe en relación con la esperanza. Observa qué afirma el pasaje antes de aplicarlo a una situación personal.",
+            "Distingue lo que el texto afirma de tus propias suposiciones."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Hebreos 11:1",
+              "text": "La fe sostiene la confianza en lo que esperamos.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué enseña este pasaje acerca de Dios y de nuestra respuesta?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-4",
+          "index": 4,
+          "name": "Miércoles",
+          "date": "2026-07-22",
+          "title": "Aplicar con cuidado",
+          "readings": [
+            "El texto describe la fe en relación con la esperanza. Observa qué afirma el pasaje antes de aplicarlo a una situación personal.",
+            "Relaciona el mensaje con una situación concreta de tu vida."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Hebreos 11:1",
+              "text": "La fe sostiene la confianza en lo que esperamos.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué decisión puedes revisar a la luz de este pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-5",
+          "index": 5,
+          "name": "Jueves",
+          "date": "2026-07-23",
+          "title": "Compartir y servir",
+          "readings": [
+            "El texto describe la fe en relación con la esperanza. Observa qué afirma el pasaje antes de aplicarlo a una situación personal.",
+            "Piensa en una persona a quien puedas ayudar esta semana."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Hebreos 11:1",
+              "text": "La fe sostiene la confianza en lo que esperamos.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué acción de servicio expresa lo aprendido?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-6",
+          "index": 6,
+          "name": "Viernes",
+          "date": "2026-07-24",
+          "title": "Repasar y dialogar",
+          "readings": [
+            "El texto describe la fe en relación con la esperanza. Observa qué afirma el pasaje antes de aplicarlo a una situación personal.",
+            "Revisa tus notas y prepara una pregunta para tu grupo."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Hebreos 11:1",
+              "text": "La fe sostiene la confianza en lo que esperamos.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué aprendiste y qué deseas seguir estudiando?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-5",
+      "number": 5,
+      "title": "La gracia y la salvación",
+      "startDate": "2026-07-25",
+      "endDate": "2026-07-31",
+      "days": [
+        {
+          "id": "day-0",
+          "index": 0,
+          "name": "Sábado",
+          "date": "2026-07-25",
+          "title": "Panorama de la semana",
+          "readings": [
+            "Pablo presenta la salvación como don. Lee también el contexto y distingue el regalo de Dios de una recompensa por méritos personales.",
+            "Lee el pasaje y describe su tema central."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Efesios 2:8",
+              "text": "La salvación es un regalo de gracia recibido por fe.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué idea principal encuentras en el pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-1",
+          "index": 1,
+          "name": "Domingo",
+          "date": "2026-07-26",
+          "title": "Observar el texto",
+          "readings": [
+            "Pablo presenta la salvación como don. Lee también el contexto y distingue el regalo de Dios de una recompensa por méritos personales.",
+            "Identifica quién habla y a quién se dirige."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Efesios 2:8",
+              "text": "La salvación es un regalo de gracia recibido por fe.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué palabras o imágenes destacan y por qué?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-2",
+          "index": 2,
+          "name": "Lunes",
+          "date": "2026-07-27",
+          "title": "Comprender el contexto",
+          "readings": [
+            "Pablo presenta la salvación como don. Lee también el contexto y distingue el regalo de Dios de una recompensa por méritos personales.",
+            "Lee los versículos anteriores y posteriores."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Efesios 2:8",
+              "text": "La salvación es un regalo de gracia recibido por fe.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Cómo ayuda el contexto a comprender esta enseñanza?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-3",
+          "index": 3,
+          "name": "Martes",
+          "date": "2026-07-28",
+          "title": "Examinar el mensaje",
+          "readings": [
+            "Pablo presenta la salvación como don. Lee también el contexto y distingue el regalo de Dios de una recompensa por méritos personales.",
+            "Distingue lo que el texto afirma de tus propias suposiciones."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Efesios 2:8",
+              "text": "La salvación es un regalo de gracia recibido por fe.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué enseña este pasaje acerca de Dios y de nuestra respuesta?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-4",
+          "index": 4,
+          "name": "Miércoles",
+          "date": "2026-07-29",
+          "title": "Aplicar con cuidado",
+          "readings": [
+            "Pablo presenta la salvación como don. Lee también el contexto y distingue el regalo de Dios de una recompensa por méritos personales.",
+            "Relaciona el mensaje con una situación concreta de tu vida."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Efesios 2:8",
+              "text": "La salvación es un regalo de gracia recibido por fe.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué decisión puedes revisar a la luz de este pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-5",
+          "index": 5,
+          "name": "Jueves",
+          "date": "2026-07-30",
+          "title": "Compartir y servir",
+          "readings": [
+            "Pablo presenta la salvación como don. Lee también el contexto y distingue el regalo de Dios de una recompensa por méritos personales.",
+            "Piensa en una persona a quien puedas ayudar esta semana."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Efesios 2:8",
+              "text": "La salvación es un regalo de gracia recibido por fe.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué acción de servicio expresa lo aprendido?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-6",
+          "index": 6,
+          "name": "Viernes",
+          "date": "2026-07-31",
+          "title": "Repasar y dialogar",
+          "readings": [
+            "Pablo presenta la salvación como don. Lee también el contexto y distingue el regalo de Dios de una recompensa por méritos personales.",
+            "Revisa tus notas y prepara una pregunta para tu grupo."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Efesios 2:8",
+              "text": "La salvación es un regalo de gracia recibido por fe.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué aprendiste y qué deseas seguir estudiando?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-6",
+      "number": 6,
+      "title": "El descanso en Dios",
+      "startDate": "2026-08-01",
+      "endDate": "2026-08-07",
+      "days": [
+        {
+          "id": "day-0",
+          "index": 0,
+          "name": "Sábado",
+          "date": "2026-08-01",
+          "title": "Panorama de la semana",
+          "readings": [
+            "La invitación de Jesús se dirige a personas cargadas. Examina quién invita, a quiénes llama y qué promete.",
+            "Lee el pasaje y describe su tema central."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Mateo 11:28",
+              "text": "Jesús invita a los cansados a encontrar descanso en él.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué idea principal encuentras en el pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-1",
+          "index": 1,
+          "name": "Domingo",
+          "date": "2026-08-02",
+          "title": "Observar el texto",
+          "readings": [
+            "La invitación de Jesús se dirige a personas cargadas. Examina quién invita, a quiénes llama y qué promete.",
+            "Identifica quién habla y a quién se dirige."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Mateo 11:28",
+              "text": "Jesús invita a los cansados a encontrar descanso en él.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué palabras o imágenes destacan y por qué?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-2",
+          "index": 2,
+          "name": "Lunes",
+          "date": "2026-08-03",
+          "title": "Comprender el contexto",
+          "readings": [
+            "La invitación de Jesús se dirige a personas cargadas. Examina quién invita, a quiénes llama y qué promete.",
+            "Lee los versículos anteriores y posteriores."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Mateo 11:28",
+              "text": "Jesús invita a los cansados a encontrar descanso en él.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Cómo ayuda el contexto a comprender esta enseñanza?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-3",
+          "index": 3,
+          "name": "Martes",
+          "date": "2026-08-04",
+          "title": "Examinar el mensaje",
+          "readings": [
+            "La invitación de Jesús se dirige a personas cargadas. Examina quién invita, a quiénes llama y qué promete.",
+            "Distingue lo que el texto afirma de tus propias suposiciones."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Mateo 11:28",
+              "text": "Jesús invita a los cansados a encontrar descanso en él.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué enseña este pasaje acerca de Dios y de nuestra respuesta?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-4",
+          "index": 4,
+          "name": "Miércoles",
+          "date": "2026-08-05",
+          "title": "Aplicar con cuidado",
+          "readings": [
+            "La invitación de Jesús se dirige a personas cargadas. Examina quién invita, a quiénes llama y qué promete.",
+            "Relaciona el mensaje con una situación concreta de tu vida."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Mateo 11:28",
+              "text": "Jesús invita a los cansados a encontrar descanso en él.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué decisión puedes revisar a la luz de este pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-5",
+          "index": 5,
+          "name": "Jueves",
+          "date": "2026-08-06",
+          "title": "Compartir y servir",
+          "readings": [
+            "La invitación de Jesús se dirige a personas cargadas. Examina quién invita, a quiénes llama y qué promete.",
+            "Piensa en una persona a quien puedas ayudar esta semana."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Mateo 11:28",
+              "text": "Jesús invita a los cansados a encontrar descanso en él.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué acción de servicio expresa lo aprendido?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-6",
+          "index": 6,
+          "name": "Viernes",
+          "date": "2026-08-07",
+          "title": "Repasar y dialogar",
+          "readings": [
+            "La invitación de Jesús se dirige a personas cargadas. Examina quién invita, a quiénes llama y qué promete.",
+            "Revisa tus notas y prepara una pregunta para tu grupo."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Mateo 11:28",
+              "text": "Jesús invita a los cansados a encontrar descanso en él.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué aprendiste y qué deseas seguir estudiando?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-7",
+      "number": 7,
+      "title": "Servir con humildad",
+      "startDate": "2026-08-08",
+      "endDate": "2026-08-14",
+      "days": [
+        {
+          "id": "day-0",
+          "index": 0,
+          "name": "Sábado",
+          "date": "2026-08-08",
+          "title": "Panorama de la semana",
+          "readings": [
+            "Jesús explica su misión mediante el servicio. Compara esa enseñanza con la búsqueda de reconocimiento y poder.",
+            "Lee el pasaje y describe su tema central."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Marcos 10:45",
+              "text": "Jesús vino a servir y entregar su vida.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué idea principal encuentras en el pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-1",
+          "index": 1,
+          "name": "Domingo",
+          "date": "2026-08-09",
+          "title": "Observar el texto",
+          "readings": [
+            "Jesús explica su misión mediante el servicio. Compara esa enseñanza con la búsqueda de reconocimiento y poder.",
+            "Identifica quién habla y a quién se dirige."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Marcos 10:45",
+              "text": "Jesús vino a servir y entregar su vida.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué palabras o imágenes destacan y por qué?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-2",
+          "index": 2,
+          "name": "Lunes",
+          "date": "2026-08-10",
+          "title": "Comprender el contexto",
+          "readings": [
+            "Jesús explica su misión mediante el servicio. Compara esa enseñanza con la búsqueda de reconocimiento y poder.",
+            "Lee los versículos anteriores y posteriores."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Marcos 10:45",
+              "text": "Jesús vino a servir y entregar su vida.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Cómo ayuda el contexto a comprender esta enseñanza?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-3",
+          "index": 3,
+          "name": "Martes",
+          "date": "2026-08-11",
+          "title": "Examinar el mensaje",
+          "readings": [
+            "Jesús explica su misión mediante el servicio. Compara esa enseñanza con la búsqueda de reconocimiento y poder.",
+            "Distingue lo que el texto afirma de tus propias suposiciones."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Marcos 10:45",
+              "text": "Jesús vino a servir y entregar su vida.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué enseña este pasaje acerca de Dios y de nuestra respuesta?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-4",
+          "index": 4,
+          "name": "Miércoles",
+          "date": "2026-08-12",
+          "title": "Aplicar con cuidado",
+          "readings": [
+            "Jesús explica su misión mediante el servicio. Compara esa enseñanza con la búsqueda de reconocimiento y poder.",
+            "Relaciona el mensaje con una situación concreta de tu vida."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Marcos 10:45",
+              "text": "Jesús vino a servir y entregar su vida.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué decisión puedes revisar a la luz de este pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-5",
+          "index": 5,
+          "name": "Jueves",
+          "date": "2026-08-13",
+          "title": "Compartir y servir",
+          "readings": [
+            "Jesús explica su misión mediante el servicio. Compara esa enseñanza con la búsqueda de reconocimiento y poder.",
+            "Piensa en una persona a quien puedas ayudar esta semana."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Marcos 10:45",
+              "text": "Jesús vino a servir y entregar su vida.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué acción de servicio expresa lo aprendido?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-6",
+          "index": 6,
+          "name": "Viernes",
+          "date": "2026-08-14",
+          "title": "Repasar y dialogar",
+          "readings": [
+            "Jesús explica su misión mediante el servicio. Compara esa enseñanza con la búsqueda de reconocimiento y poder.",
+            "Revisa tus notas y prepara una pregunta para tu grupo."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Marcos 10:45",
+              "text": "Jesús vino a servir y entregar su vida.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué aprendiste y qué deseas seguir estudiando?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-8",
+      "number": 8,
+      "title": "El perdón que restaura",
+      "startDate": "2026-08-15",
+      "endDate": "2026-08-21",
+      "days": [
+        {
+          "id": "day-0",
+          "index": 0,
+          "name": "Sábado",
+          "date": "2026-08-15",
+          "title": "Panorama de la semana",
+          "readings": [
+            "El perdón aparece junto con bondad y compasión. Lee el contexto y observa el fundamento que Pablo ofrece para esta exhortación.",
+            "Lee el pasaje y describe su tema central."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Efesios 4:32",
+              "text": "Sean compasivos y perdónense como Dios los perdonó en Cristo.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué idea principal encuentras en el pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-1",
+          "index": 1,
+          "name": "Domingo",
+          "date": "2026-08-16",
+          "title": "Observar el texto",
+          "readings": [
+            "El perdón aparece junto con bondad y compasión. Lee el contexto y observa el fundamento que Pablo ofrece para esta exhortación.",
+            "Identifica quién habla y a quién se dirige."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Efesios 4:32",
+              "text": "Sean compasivos y perdónense como Dios los perdonó en Cristo.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué palabras o imágenes destacan y por qué?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-2",
+          "index": 2,
+          "name": "Lunes",
+          "date": "2026-08-17",
+          "title": "Comprender el contexto",
+          "readings": [
+            "El perdón aparece junto con bondad y compasión. Lee el contexto y observa el fundamento que Pablo ofrece para esta exhortación.",
+            "Lee los versículos anteriores y posteriores."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Efesios 4:32",
+              "text": "Sean compasivos y perdónense como Dios los perdonó en Cristo.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Cómo ayuda el contexto a comprender esta enseñanza?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-3",
+          "index": 3,
+          "name": "Martes",
+          "date": "2026-08-18",
+          "title": "Examinar el mensaje",
+          "readings": [
+            "El perdón aparece junto con bondad y compasión. Lee el contexto y observa el fundamento que Pablo ofrece para esta exhortación.",
+            "Distingue lo que el texto afirma de tus propias suposiciones."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Efesios 4:32",
+              "text": "Sean compasivos y perdónense como Dios los perdonó en Cristo.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué enseña este pasaje acerca de Dios y de nuestra respuesta?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-4",
+          "index": 4,
+          "name": "Miércoles",
+          "date": "2026-08-19",
+          "title": "Aplicar con cuidado",
+          "readings": [
+            "El perdón aparece junto con bondad y compasión. Lee el contexto y observa el fundamento que Pablo ofrece para esta exhortación.",
+            "Relaciona el mensaje con una situación concreta de tu vida."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Efesios 4:32",
+              "text": "Sean compasivos y perdónense como Dios los perdonó en Cristo.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué decisión puedes revisar a la luz de este pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-5",
+          "index": 5,
+          "name": "Jueves",
+          "date": "2026-08-20",
+          "title": "Compartir y servir",
+          "readings": [
+            "El perdón aparece junto con bondad y compasión. Lee el contexto y observa el fundamento que Pablo ofrece para esta exhortación.",
+            "Piensa en una persona a quien puedas ayudar esta semana."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Efesios 4:32",
+              "text": "Sean compasivos y perdónense como Dios los perdonó en Cristo.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué acción de servicio expresa lo aprendido?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-6",
+          "index": 6,
+          "name": "Viernes",
+          "date": "2026-08-21",
+          "title": "Repasar y dialogar",
+          "readings": [
+            "El perdón aparece junto con bondad y compasión. Lee el contexto y observa el fundamento que Pablo ofrece para esta exhortación.",
+            "Revisa tus notas y prepara una pregunta para tu grupo."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Efesios 4:32",
+              "text": "Sean compasivos y perdónense como Dios los perdonó en Cristo.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué aprendiste y qué deseas seguir estudiando?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-9",
+      "number": 9,
+      "title": "La esperanza cristiana",
+      "startDate": "2026-08-22",
+      "endDate": "2026-08-28",
+      "days": [
+        {
+          "id": "day-0",
+          "index": 0,
+          "name": "Sábado",
+          "date": "2026-08-22",
+          "title": "Panorama de la semana",
+          "readings": [
+            "Jesús consuela a sus discípulos con una promesa. Examina cómo su presencia da sentido a la esperanza que expresa el pasaje.",
+            "Lee el pasaje y describe su tema central."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Juan 14:3",
+              "text": "Jesús promete volver y recibir a los suyos.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué idea principal encuentras en el pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-1",
+          "index": 1,
+          "name": "Domingo",
+          "date": "2026-08-23",
+          "title": "Observar el texto",
+          "readings": [
+            "Jesús consuela a sus discípulos con una promesa. Examina cómo su presencia da sentido a la esperanza que expresa el pasaje.",
+            "Identifica quién habla y a quién se dirige."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Juan 14:3",
+              "text": "Jesús promete volver y recibir a los suyos.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué palabras o imágenes destacan y por qué?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-2",
+          "index": 2,
+          "name": "Lunes",
+          "date": "2026-08-24",
+          "title": "Comprender el contexto",
+          "readings": [
+            "Jesús consuela a sus discípulos con una promesa. Examina cómo su presencia da sentido a la esperanza que expresa el pasaje.",
+            "Lee los versículos anteriores y posteriores."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Juan 14:3",
+              "text": "Jesús promete volver y recibir a los suyos.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Cómo ayuda el contexto a comprender esta enseñanza?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-3",
+          "index": 3,
+          "name": "Martes",
+          "date": "2026-08-25",
+          "title": "Examinar el mensaje",
+          "readings": [
+            "Jesús consuela a sus discípulos con una promesa. Examina cómo su presencia da sentido a la esperanza que expresa el pasaje.",
+            "Distingue lo que el texto afirma de tus propias suposiciones."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Juan 14:3",
+              "text": "Jesús promete volver y recibir a los suyos.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué enseña este pasaje acerca de Dios y de nuestra respuesta?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-4",
+          "index": 4,
+          "name": "Miércoles",
+          "date": "2026-08-26",
+          "title": "Aplicar con cuidado",
+          "readings": [
+            "Jesús consuela a sus discípulos con una promesa. Examina cómo su presencia da sentido a la esperanza que expresa el pasaje.",
+            "Relaciona el mensaje con una situación concreta de tu vida."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Juan 14:3",
+              "text": "Jesús promete volver y recibir a los suyos.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué decisión puedes revisar a la luz de este pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-5",
+          "index": 5,
+          "name": "Jueves",
+          "date": "2026-08-27",
+          "title": "Compartir y servir",
+          "readings": [
+            "Jesús consuela a sus discípulos con una promesa. Examina cómo su presencia da sentido a la esperanza que expresa el pasaje.",
+            "Piensa en una persona a quien puedas ayudar esta semana."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Juan 14:3",
+              "text": "Jesús promete volver y recibir a los suyos.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué acción de servicio expresa lo aprendido?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-6",
+          "index": 6,
+          "name": "Viernes",
+          "date": "2026-08-28",
+          "title": "Repasar y dialogar",
+          "readings": [
+            "Jesús consuela a sus discípulos con una promesa. Examina cómo su presencia da sentido a la esperanza que expresa el pasaje.",
+            "Revisa tus notas y prepara una pregunta para tu grupo."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Juan 14:3",
+              "text": "Jesús promete volver y recibir a los suyos.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué aprendiste y qué deseas seguir estudiando?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-10",
+      "number": 10,
+      "title": "La sabiduría cotidiana",
+      "startDate": "2026-08-29",
+      "endDate": "2026-09-04",
+      "days": [
+        {
+          "id": "day-0",
+          "index": 0,
+          "name": "Sábado",
+          "date": "2026-08-29",
+          "title": "Panorama de la semana",
+          "readings": [
+            "Santiago anima a pedir sabiduría. Distingue entre acumular información y discernir cómo actuar en una dificultad.",
+            "Lee el pasaje y describe su tema central."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Santiago 1:5",
+              "text": "Quien necesita sabiduría puede pedirla a Dios.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué idea principal encuentras en el pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-1",
+          "index": 1,
+          "name": "Domingo",
+          "date": "2026-08-30",
+          "title": "Observar el texto",
+          "readings": [
+            "Santiago anima a pedir sabiduría. Distingue entre acumular información y discernir cómo actuar en una dificultad.",
+            "Identifica quién habla y a quién se dirige."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Santiago 1:5",
+              "text": "Quien necesita sabiduría puede pedirla a Dios.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué palabras o imágenes destacan y por qué?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-2",
+          "index": 2,
+          "name": "Lunes",
+          "date": "2026-08-31",
+          "title": "Comprender el contexto",
+          "readings": [
+            "Santiago anima a pedir sabiduría. Distingue entre acumular información y discernir cómo actuar en una dificultad.",
+            "Lee los versículos anteriores y posteriores."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Santiago 1:5",
+              "text": "Quien necesita sabiduría puede pedirla a Dios.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Cómo ayuda el contexto a comprender esta enseñanza?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-3",
+          "index": 3,
+          "name": "Martes",
+          "date": "2026-09-01",
+          "title": "Examinar el mensaje",
+          "readings": [
+            "Santiago anima a pedir sabiduría. Distingue entre acumular información y discernir cómo actuar en una dificultad.",
+            "Distingue lo que el texto afirma de tus propias suposiciones."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Santiago 1:5",
+              "text": "Quien necesita sabiduría puede pedirla a Dios.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué enseña este pasaje acerca de Dios y de nuestra respuesta?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-4",
+          "index": 4,
+          "name": "Miércoles",
+          "date": "2026-09-02",
+          "title": "Aplicar con cuidado",
+          "readings": [
+            "Santiago anima a pedir sabiduría. Distingue entre acumular información y discernir cómo actuar en una dificultad.",
+            "Relaciona el mensaje con una situación concreta de tu vida."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Santiago 1:5",
+              "text": "Quien necesita sabiduría puede pedirla a Dios.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué decisión puedes revisar a la luz de este pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-5",
+          "index": 5,
+          "name": "Jueves",
+          "date": "2026-09-03",
+          "title": "Compartir y servir",
+          "readings": [
+            "Santiago anima a pedir sabiduría. Distingue entre acumular información y discernir cómo actuar en una dificultad.",
+            "Piensa en una persona a quien puedas ayudar esta semana."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Santiago 1:5",
+              "text": "Quien necesita sabiduría puede pedirla a Dios.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué acción de servicio expresa lo aprendido?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-6",
+          "index": 6,
+          "name": "Viernes",
+          "date": "2026-09-04",
+          "title": "Repasar y dialogar",
+          "readings": [
+            "Santiago anima a pedir sabiduría. Distingue entre acumular información y discernir cómo actuar en una dificultad.",
+            "Revisa tus notas y prepara una pregunta para tu grupo."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Santiago 1:5",
+              "text": "Quien necesita sabiduría puede pedirla a Dios.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué aprendiste y qué deseas seguir estudiando?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-11",
+      "number": 11,
+      "title": "La gratitud",
+      "startDate": "2026-09-05",
+      "endDate": "2026-09-11",
+      "days": [
+        {
+          "id": "day-0",
+          "index": 0,
+          "name": "Sábado",
+          "date": "2026-09-05",
+          "title": "Panorama de la semana",
+          "readings": [
+            "La exhortación invita a agradecer en medio de la vida. Identifica motivos de gratitud sin negar las dificultades ni el dolor.",
+            "Lee el pasaje y describe su tema central."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "1 Tesalonicenses 5:18",
+              "text": "Cultiven la gratitud en toda circunstancia.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué idea principal encuentras en el pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-1",
+          "index": 1,
+          "name": "Domingo",
+          "date": "2026-09-06",
+          "title": "Observar el texto",
+          "readings": [
+            "La exhortación invita a agradecer en medio de la vida. Identifica motivos de gratitud sin negar las dificultades ni el dolor.",
+            "Identifica quién habla y a quién se dirige."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "1 Tesalonicenses 5:18",
+              "text": "Cultiven la gratitud en toda circunstancia.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué palabras o imágenes destacan y por qué?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-2",
+          "index": 2,
+          "name": "Lunes",
+          "date": "2026-09-07",
+          "title": "Comprender el contexto",
+          "readings": [
+            "La exhortación invita a agradecer en medio de la vida. Identifica motivos de gratitud sin negar las dificultades ni el dolor.",
+            "Lee los versículos anteriores y posteriores."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "1 Tesalonicenses 5:18",
+              "text": "Cultiven la gratitud en toda circunstancia.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Cómo ayuda el contexto a comprender esta enseñanza?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-3",
+          "index": 3,
+          "name": "Martes",
+          "date": "2026-09-08",
+          "title": "Examinar el mensaje",
+          "readings": [
+            "La exhortación invita a agradecer en medio de la vida. Identifica motivos de gratitud sin negar las dificultades ni el dolor.",
+            "Distingue lo que el texto afirma de tus propias suposiciones."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "1 Tesalonicenses 5:18",
+              "text": "Cultiven la gratitud en toda circunstancia.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué enseña este pasaje acerca de Dios y de nuestra respuesta?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-4",
+          "index": 4,
+          "name": "Miércoles",
+          "date": "2026-09-09",
+          "title": "Aplicar con cuidado",
+          "readings": [
+            "La exhortación invita a agradecer en medio de la vida. Identifica motivos de gratitud sin negar las dificultades ni el dolor.",
+            "Relaciona el mensaje con una situación concreta de tu vida."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "1 Tesalonicenses 5:18",
+              "text": "Cultiven la gratitud en toda circunstancia.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué decisión puedes revisar a la luz de este pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-5",
+          "index": 5,
+          "name": "Jueves",
+          "date": "2026-09-10",
+          "title": "Compartir y servir",
+          "readings": [
+            "La exhortación invita a agradecer en medio de la vida. Identifica motivos de gratitud sin negar las dificultades ni el dolor.",
+            "Piensa en una persona a quien puedas ayudar esta semana."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "1 Tesalonicenses 5:18",
+              "text": "Cultiven la gratitud en toda circunstancia.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué acción de servicio expresa lo aprendido?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-6",
+          "index": 6,
+          "name": "Viernes",
+          "date": "2026-09-11",
+          "title": "Repasar y dialogar",
+          "readings": [
+            "La exhortación invita a agradecer en medio de la vida. Identifica motivos de gratitud sin negar las dificultades ni el dolor.",
+            "Revisa tus notas y prepara una pregunta para tu grupo."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "1 Tesalonicenses 5:18",
+              "text": "Cultiven la gratitud en toda circunstancia.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué aprendiste y qué deseas seguir estudiando?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-12",
+      "number": 12,
+      "title": "La comunidad de fe",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-18",
+      "days": [
+        {
+          "id": "day-0",
+          "index": 0,
+          "name": "Sábado",
+          "date": "2026-09-12",
+          "title": "Panorama de la semana",
+          "readings": [
+            "El autor invita a prestar atención a otros. Reflexiona sobre cómo una comunidad puede estimular acciones concretas de amor.",
+            "Lee el pasaje y describe su tema central."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Hebreos 10:24",
+              "text": "Anímense mutuamente al amor y a las buenas obras.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué idea principal encuentras en el pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-1",
+          "index": 1,
+          "name": "Domingo",
+          "date": "2026-09-13",
+          "title": "Observar el texto",
+          "readings": [
+            "El autor invita a prestar atención a otros. Reflexiona sobre cómo una comunidad puede estimular acciones concretas de amor.",
+            "Identifica quién habla y a quién se dirige."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Hebreos 10:24",
+              "text": "Anímense mutuamente al amor y a las buenas obras.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué palabras o imágenes destacan y por qué?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-2",
+          "index": 2,
+          "name": "Lunes",
+          "date": "2026-09-14",
+          "title": "Comprender el contexto",
+          "readings": [
+            "El autor invita a prestar atención a otros. Reflexiona sobre cómo una comunidad puede estimular acciones concretas de amor.",
+            "Lee los versículos anteriores y posteriores."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Hebreos 10:24",
+              "text": "Anímense mutuamente al amor y a las buenas obras.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Cómo ayuda el contexto a comprender esta enseñanza?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-3",
+          "index": 3,
+          "name": "Martes",
+          "date": "2026-09-15",
+          "title": "Examinar el mensaje",
+          "readings": [
+            "El autor invita a prestar atención a otros. Reflexiona sobre cómo una comunidad puede estimular acciones concretas de amor.",
+            "Distingue lo que el texto afirma de tus propias suposiciones."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Hebreos 10:24",
+              "text": "Anímense mutuamente al amor y a las buenas obras.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué enseña este pasaje acerca de Dios y de nuestra respuesta?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-4",
+          "index": 4,
+          "name": "Miércoles",
+          "date": "2026-09-16",
+          "title": "Aplicar con cuidado",
+          "readings": [
+            "El autor invita a prestar atención a otros. Reflexiona sobre cómo una comunidad puede estimular acciones concretas de amor.",
+            "Relaciona el mensaje con una situación concreta de tu vida."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Hebreos 10:24",
+              "text": "Anímense mutuamente al amor y a las buenas obras.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué decisión puedes revisar a la luz de este pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-5",
+          "index": 5,
+          "name": "Jueves",
+          "date": "2026-09-17",
+          "title": "Compartir y servir",
+          "readings": [
+            "El autor invita a prestar atención a otros. Reflexiona sobre cómo una comunidad puede estimular acciones concretas de amor.",
+            "Piensa en una persona a quien puedas ayudar esta semana."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Hebreos 10:24",
+              "text": "Anímense mutuamente al amor y a las buenas obras.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué acción de servicio expresa lo aprendido?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-6",
+          "index": 6,
+          "name": "Viernes",
+          "date": "2026-09-18",
+          "title": "Repasar y dialogar",
+          "readings": [
+            "El autor invita a prestar atención a otros. Reflexiona sobre cómo una comunidad puede estimular acciones concretas de amor.",
+            "Revisa tus notas y prepara una pregunta para tu grupo."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Hebreos 10:24",
+              "text": "Anímense mutuamente al amor y a las buenas obras.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué aprendiste y qué deseas seguir estudiando?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-13",
+      "number": 13,
+      "title": "Vivir lo aprendido",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-25",
+      "days": [
+        {
+          "id": "day-0",
+          "index": 0,
+          "name": "Sábado",
+          "date": "2026-09-19",
+          "title": "Panorama de la semana",
+          "readings": [
+            "Santiago conecta escucha y acción. Repasa el trimestre y elige una enseñanza cuyo significado puedas expresar mediante una acción concreta.",
+            "Lee el pasaje y describe su tema central."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Santiago 1:22",
+              "text": "Pongan en práctica la Palabra y no se limiten a escucharla.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué idea principal encuentras en el pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-1",
+          "index": 1,
+          "name": "Domingo",
+          "date": "2026-09-20",
+          "title": "Observar el texto",
+          "readings": [
+            "Santiago conecta escucha y acción. Repasa el trimestre y elige una enseñanza cuyo significado puedas expresar mediante una acción concreta.",
+            "Identifica quién habla y a quién se dirige."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Santiago 1:22",
+              "text": "Pongan en práctica la Palabra y no se limiten a escucharla.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué palabras o imágenes destacan y por qué?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-2",
+          "index": 2,
+          "name": "Lunes",
+          "date": "2026-09-21",
+          "title": "Comprender el contexto",
+          "readings": [
+            "Santiago conecta escucha y acción. Repasa el trimestre y elige una enseñanza cuyo significado puedas expresar mediante una acción concreta.",
+            "Lee los versículos anteriores y posteriores."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Santiago 1:22",
+              "text": "Pongan en práctica la Palabra y no se limiten a escucharla.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Cómo ayuda el contexto a comprender esta enseñanza?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-3",
+          "index": 3,
+          "name": "Martes",
+          "date": "2026-09-22",
+          "title": "Examinar el mensaje",
+          "readings": [
+            "Santiago conecta escucha y acción. Repasa el trimestre y elige una enseñanza cuyo significado puedas expresar mediante una acción concreta.",
+            "Distingue lo que el texto afirma de tus propias suposiciones."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Santiago 1:22",
+              "text": "Pongan en práctica la Palabra y no se limiten a escucharla.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué enseña este pasaje acerca de Dios y de nuestra respuesta?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-4",
+          "index": 4,
+          "name": "Miércoles",
+          "date": "2026-09-23",
+          "title": "Aplicar con cuidado",
+          "readings": [
+            "Santiago conecta escucha y acción. Repasa el trimestre y elige una enseñanza cuyo significado puedas expresar mediante una acción concreta.",
+            "Relaciona el mensaje con una situación concreta de tu vida."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Santiago 1:22",
+              "text": "Pongan en práctica la Palabra y no se limiten a escucharla.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué decisión puedes revisar a la luz de este pasaje?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-5",
+          "index": 5,
+          "name": "Jueves",
+          "date": "2026-09-24",
+          "title": "Compartir y servir",
+          "readings": [
+            "Santiago conecta escucha y acción. Repasa el trimestre y elige una enseñanza cuyo significado puedas expresar mediante una acción concreta.",
+            "Piensa en una persona a quien puedas ayudar esta semana."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Santiago 1:22",
+              "text": "Pongan en práctica la Palabra y no se limiten a escucharla.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué acción de servicio expresa lo aprendido?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "day-6",
+          "index": 6,
+          "name": "Viernes",
+          "date": "2026-09-25",
+          "title": "Repasar y dialogar",
+          "readings": [
+            "Santiago conecta escucha y acción. Repasa el trimestre y elige una enseñanza cuyo significado puedas expresar mediante una acción concreta.",
+            "Revisa tus notas y prepara una pregunta para tu grupo."
+          ],
+          "scriptures": [
+            {
+              "id": "main",
+              "reference": "Santiago 1:22",
+              "text": "Pongan en práctica la Palabra y no se limiten a escucharla.",
+              "translation": "Paráfrasis de estudio; no es una traducción bíblica"
+            }
+          ],
+          "questions": [
+            {
+              "id": "reflection",
+              "text": "¿Qué aprendiste y qué deseas seguir estudiando?",
+              "scriptureIds": [
+                "main"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
